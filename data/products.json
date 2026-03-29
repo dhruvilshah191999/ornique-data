@@ -1,0 +1,548 @@
+[
+  {
+    "id": 1,
+    "name": "Gold Hoop Earrings",
+    "category": "earrings",
+    "price": 1299,
+    "original_price": 1799,
+    "discounted_price": 1299,
+    "discount_percent": 28,
+    "description": "Elegant gold hoop earrings, perfect for everyday wear.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pearl Drop Earrings",
+    "category": "earrings",
+    "price": 899,
+    "description": "Delicate pearl drop earrings for a timeless, elegant look.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Crystal Stud Earrings",
+    "category": "earrings",
+    "price": 599,
+    "original_price": 799,
+    "discounted_price": 599,
+    "discount_percent": 25,
+    "description": "Sparkling crystal studs that catch the light beautifully.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Emerald Dangle Earrings",
+    "category": "earrings",
+    "price": 2499,
+    "description": "Exquisite emerald-tone danglers for a regal look.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Threader Chain Earrings",
+    "category": "earrings",
+    "price": 749,
+    "original_price": 999,
+    "discounted_price": 749,
+    "discount_percent": 25,
+    "description": "Minimalist threader earrings in polished gold.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Vintage Rose Earrings",
+    "category": "earrings",
+    "price": 1599,
+    "description": "Rose-shaped vintage earrings with antique finish.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Kundan Jhumka Earrings",
+    "category": "earrings",
+    "price": 1899,
+    "original_price": 2399,
+    "discounted_price": 1899,
+    "discount_percent": 21,
+    "description": "Traditional kundan jhumkas — a festive showstopper.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=600&q=80&fit=crop"
+    ]
+  },
+
+  {
+    "id": 10,
+    "name": "Solitaire Diamond Ring",
+    "category": "rings",
+    "price": 4999,
+    "original_price": 6499,
+    "discounted_price": 4999,
+    "discount_percent": 23,
+    "description": "A stunning solitaire ring that speaks pure elegance.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Rose Gold Band Ring",
+    "category": "rings",
+    "price": 2299,
+    "description": "Sleek rose gold band, minimal and modern.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Twisted Gold Ring",
+    "category": "rings",
+    "price": 1799,
+    "original_price": 2299,
+    "discounted_price": 1799,
+    "discount_percent": 22,
+    "description": "Elegantly twisted gold ring with a unique design.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Stackable Thin Rings Set",
+    "category": "rings",
+    "price": 1299,
+    "description": "Set of 5 stackable thin rings — mix and match.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Vintage Emerald Ring",
+    "category": "rings",
+    "price": 3499,
+    "original_price": 4499,
+    "discounted_price": 3499,
+    "discount_percent": 22,
+    "description": "Emerald-tone stone on a vintage-style gold band.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Pearl Cocktail Ring",
+    "category": "rings",
+    "price": 1999,
+    "description": "Statement pearl ring for cocktail evenings.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Infinity Band Ring",
+    "category": "rings",
+    "price": 899,
+    "description": "Delicate infinity symbol ring in rose gold.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=600&q=80&fit=crop"
+    ]
+  },
+
+  {
+    "id": 20,
+    "name": "Charm Bracelet",
+    "category": "bracelets",
+    "price": 1599,
+    "original_price": 1999,
+    "discounted_price": 1599,
+    "discount_percent": 20,
+    "description": "Playful charm bracelet with gold-plated charms.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Tennis Bracelet",
+    "category": "bracelets",
+    "price": 3499,
+    "description": "Classic tennis bracelet with cubic zirconia stones.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1573408301185-9519f94815f8?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Gold Chain Bracelet",
+    "category": "bracelets",
+    "price": 1299,
+    "original_price": 1699,
+    "discounted_price": 1299,
+    "discount_percent": 24,
+    "description": "Minimalist gold chain bracelet for everyday wear.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1573408301185-9519f94815f8?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Pearl Bangle Bracelet",
+    "category": "bracelets",
+    "price": 1899,
+    "description": "Elegant bangle adorned with freshwater pearls.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Cuff Bracelet",
+    "category": "bracelets",
+    "price": 2199,
+    "original_price": 2799,
+    "discounted_price": 2199,
+    "discount_percent": 21,
+    "description": "Bold hammered gold cuff bracelet — a statement piece.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Beaded Stretch Bracelet",
+    "category": "bracelets",
+    "price": 499,
+    "description": "Colorful beaded stretch bracelet — boho vibes.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1573408301185-9519f94815f8?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Diamond Link Bracelet",
+    "category": "bracelets",
+    "price": 5999,
+    "original_price": 7499,
+    "discounted_price": 5999,
+    "discount_percent": 20,
+    "description": "Luxurious diamond-studded link bracelet for special occasions.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600&q=80&fit=crop"
+    ]
+  },
+
+  {
+    "id": 30,
+    "name": "Layered Gold Necklace",
+    "category": "necklaces",
+    "price": 1899,
+    "original_price": 2499,
+    "discounted_price": 1899,
+    "discount_percent": 24,
+    "description": "Dainty layered necklace for a boho-chic look.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Gold Choker Necklace",
+    "category": "necklaces",
+    "price": 1199,
+    "description": "Minimalist gold choker necklace, effortlessly chic.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Pendant Necklace",
+    "category": "necklaces",
+    "price": 999,
+    "original_price": 1399,
+    "discounted_price": 999,
+    "discount_percent": 29,
+    "description": "Delicate pendant necklace with a sparkling stone.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Statement Collar Necklace",
+    "category": "necklaces",
+    "price": 3299,
+    "description": "Bold statement collar for evening occasions.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Kundan Bridal Necklace",
+    "category": "necklaces",
+    "price": 7999,
+    "original_price": 9999,
+    "discounted_price": 7999,
+    "discount_percent": 20,
+    "description": "Regal kundan bridal necklace — the star of your wedding.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Lariat Y-Necklace",
+    "category": "necklaces",
+    "price": 1499,
+    "description": "Sleek lariat necklace that drapes beautifully.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Coin Pendant Necklace",
+    "category": "necklaces",
+    "price": 849,
+    "description": "Trendy coin pendant on a fine chain.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&q=80&fit=crop"
+    ]
+  },
+
+  {
+    "id": 40,
+    "name": "Haath Phool",
+    "category": "hand-jewelry",
+    "price": 2199,
+    "original_price": 2799,
+    "discounted_price": 2199,
+    "discount_percent": 21,
+    "description": "Ornate hand jewelry connecting ring to bracelet.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Finger Chain Set",
+    "category": "hand-jewelry",
+    "price": 1499,
+    "description": "Delicate finger chains for an artistic hand look.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1573408301185-9519f94815f8?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Bridal Haath Phool Set",
+    "category": "hand-jewelry",
+    "price": 3999,
+    "original_price": 4999,
+    "discounted_price": 3999,
+    "discount_percent": 20,
+    "description": "Exquisite bridal haath phool with pearl accents.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Slave Bracelet Ring",
+    "category": "hand-jewelry",
+    "price": 1799,
+    "description": "Connected ring-bracelet in antique gold finish.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1573408301185-9519f94815f8?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Gold Finger Cuff",
+    "category": "hand-jewelry",
+    "price": 699,
+    "original_price": 999,
+    "discounted_price": 699,
+    "discount_percent": 30,
+    "description": "Adjustable gold finger cuff with floral motif.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Chain Mail Hand Piece",
+    "category": "hand-jewelry",
+    "price": 2499,
+    "description": "Intricate chain mail hand jewelry — warrior princess vibes.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1573408301185-9519f94815f8?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Kundan Hand Harness",
+    "category": "hand-jewelry",
+    "price": 2899,
+    "original_price": 3599,
+    "discounted_price": 2899,
+    "discount_percent": 19,
+    "description": "Festive kundan hand harness with meenakari detailing.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&q=80&fit=crop"
+    ]
+  },
+
+  {
+    "id": 50,
+    "name": "Rhinestone Eye Pin",
+    "category": "eye-jewelry",
+    "price": 699,
+    "description": "Sparkling rhinestone eye pin for a bold statement.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Crystal Brow Bar",
+    "category": "eye-jewelry",
+    "price": 599,
+    "original_price": 799,
+    "discounted_price": 599,
+    "discount_percent": 25,
+    "description": "Crystal-studded brow bar for an avant-garde look.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Gold Eyeliner Charm",
+    "category": "eye-jewelry",
+    "price": 499,
+    "description": "Tiny gold charm that adorns the outer eyelid.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Pearl Brow Chain",
+    "category": "eye-jewelry",
+    "price": 899,
+    "original_price": 1199,
+    "discounted_price": 899,
+    "discount_percent": 25,
+    "description": "Delicate pearl chain draped across the brow.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Festival Eye Jewels Set",
+    "category": "eye-jewelry",
+    "price": 399,
+    "description": "Set of adhesive crystal eye jewels — festival ready.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Temple Eye Chain",
+    "category": "eye-jewelry",
+    "price": 1299,
+    "original_price": 1599,
+    "discounted_price": 1299,
+    "discount_percent": 19,
+    "description": "Gold chain connecting temple to earlobe — Goddess energy.",
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=600&q=80&fit=crop",
+      "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600&q=80&fit=crop"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Butterfly Brow Piece",
+    "category": "eye-jewelry",
+    "price": 749,
+    "description": "Whimsical butterfly-shaped brow adornment.",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=600&q=80&fit=crop"
+    ]
+  }
+]
