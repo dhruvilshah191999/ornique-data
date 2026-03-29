@@ -544,5 +544,16 @@
     "images": [
       "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=600&q=80&fit=crop"
     ]
+  },
+  {
+    "id": 57,
+    "name": "Gold Abalone Heart Drop Earrings",
+    "category": "earrings",
+    "price": 1299,
+    "description": "Elegant gold drop earrings featuring a sculptural frame and iridescent abalone shell centerpiece, finished with a polished heart stud for a modern, refined look.",
+    "featured": true,
+    "images": [
+      "https://raw.githubusercontent.com/dhruvilshah191999/ornique-data/refs/heads/master/assets/jewelry/earrings/gold-abalone-heart-drop-earrings.jpg"
+    ]
   }
 ]
